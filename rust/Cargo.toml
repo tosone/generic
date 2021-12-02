@@ -1,0 +1,12 @@
+[package]
+name = "rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "trait"
+path = "src/trait.rs"
+
+[[bin]]
+name = "struct"
+path = "src/struct.rs"
